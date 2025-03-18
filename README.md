@@ -24,7 +24,9 @@ my hope is that football fans will come away with just as much intrigue and supr
 
 ## Project Structure
 
-The project is contained within the [Top 10 NFL DEF 2025.ipynb](Top%2010%20NFL%20DEF%202025.ipynb) Jupyter Notebook. The notebook is structured as follows:
+The project is contained within the [Best Fantasy NFL Defense 2025.ipynb]([Top%2010%20NFL%20DEF%202025.ipynb](https://github.com/KaiCole365/ML-Project-Top-NFL-DEF-2025/blob/main/Best%20Fantasy%20NFL%20Defense%202025.ipynb)) Jupyter Notebook. 
+
+The notebook is structured as follows:
 
 1.  **Data Acquisition and Preprocessing:**
     *   Scraping or importing historical NFL data from various sources.
