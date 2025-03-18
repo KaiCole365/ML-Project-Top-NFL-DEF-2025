@@ -99,4 +99,4 @@ The notebook is structured as follows:
 
 ## Author
 
-*   Kai Cole
+### Kai Cole
