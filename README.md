@@ -1,4 +1,4 @@
-# NFL Top 10 Defenses 2025: Machine Learning Prediction
+# NFL Top Defense 2025: Machine Learning Prediction
 
 ## Overview
 
